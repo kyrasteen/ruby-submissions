@@ -24,5 +24,6 @@
 * Paul Grever:
 * Stanley Siudzinski:
 * Teresa Finn:
-* Thomas Randell:
+* Thomas Randell: 
 * Trey Tomlinson:
+* Example of forking a repo
