@@ -17,7 +17,7 @@
 * Jeffrey Gu:
 * Juan Manuel Navarro:
 * Kyle Henson:
-* Kyra Weber:
+* Kyra Weber:https://gist.github.com/kyraweber/5c9fb60c8b4f65ed1aad
 * Lori Culberson:
 * Markus Olsen:
 * Miriam Moser:  
